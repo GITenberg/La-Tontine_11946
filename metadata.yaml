@@ -1,0 +1,34 @@
+_repo: La-Tontine_11946
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Lesage, Alain-René
+    - Le Sage, Alain Rene
+    - Sage, Alain René Le
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11946'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- 18th century -- Translations into English'
+- GITenberg
+title: La Tontine
+url: http://www.gutenberg.org/ebooks/11946
